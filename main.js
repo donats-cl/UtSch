@@ -14,7 +14,7 @@ if (userInfo) {
 
 // --- 3. Управляем главной кнопкой Telegram ---
 // Эта кнопка появляется внизу экрана
-tg.MainButton.setText("Отправить данные");
+tg.MainButton.setText("Push");
 tg.MainButton.show();
 
 // Вешаем обработчик на клик по главной кнопке
